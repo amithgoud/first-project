@@ -193,31 +193,6 @@ The cost function drops sharply in the first ~200 iterations and then smoothly p
 
 ---
 
-## ⚙️ How to Run This Project
-
-### Prerequisites
-
-```bash
-pip install numpy pandas matplotlib jupyter
-```
-
-### Steps
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/amithgoud/first-project.git
-   cd first-project
-   ```
-
-2. **Launch Jupyter Notebook:**
-   ```bash
-   jupyter notebook
-   ```
-
-3. **Open and run:**
-   Open `california_linear_reg.ipynb` and run all cells sequentially from top to bottom.
-
----
 
 ## 💡 Key Learnings
 
