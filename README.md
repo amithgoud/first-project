@@ -222,6 +222,7 @@ Building this project from scratch gave me deep, hands-on understanding of:
 ## 📬 Connect With Me
 
 - **GitHub:** [@amithgoud](https://github.com/amithgoud)
+- **Gmail:**  [amithgoud02@gmail.com]
 
 ---
 
